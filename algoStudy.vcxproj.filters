@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="homework_3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="LCS.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -28,6 +22,27 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="edit_distance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dist_sub.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cheapest_way.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="homework_5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="keypad.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="jewel_box.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="euclid.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
